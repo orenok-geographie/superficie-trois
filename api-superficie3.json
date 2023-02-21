@@ -1,0 +1,36 @@
+﻿[
+    {
+        "optun": "<20 000",
+        "optdeux": "<100 000",
+        "opttrois": "<250 000",
+        "optquatre": "<500 000",
+        "optcinq": "<1 000 000",
+        "optsix": "<1 000 000",
+        "CountryName": "Gibraltar",
+        "answerd": "10",
+        "answer": "<20 000"
+    },
+    {
+        "optun": "<20 000",
+        "optdeux": "<100 000",
+        "opttrois": "<250 000",
+        "optquatre": "<500 000",
+        "optcinq": "<1 000 000",
+        "optsix": "<1 000 000",
+        "CountryName": "Suriname",
+        "answerd": "163,820",
+        "answer": "<250 000"
+    },
+
+    {
+        "optun": "<20 000",
+        "optdeux": "<100 000",
+        "opttrois": "<250 000",
+        "optquatre": "<500 000",
+        "optcinq": "<1 000 000",
+        "optsix": "<1 000 000",
+        "CountryName": "Gabon",
+        "answerd": "267,670",
+        "answer": "<500 000"
+    }
+]
