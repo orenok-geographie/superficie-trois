@@ -1,36 +1,36 @@
 [
     {
-        "optun": "< 20 000)",
-        "optdeux": "< 100 000)",
-        "opttrois": "< 250 000)",
-        "optquatre": "< 500 000)",
-        "optcinq": "< 1 000 000)",
-        "optsix": "< 1 000 000)",
+        "optun": " < 20 000)",
+        "optdeux": " < 100 000)",
+        "opttrois": " < 250 000)",
+        "optquatre": " < 500 000)",
+        "optcinq": " < 1 000 000)",
+        "optsix": " < 1 000 000)",
         "CountryName": "Gibraltar",
         "reponsed": "10",
-        "reponse": "< 20 000)"
+        "reponse": " < 20 000)"
     },
     {
-        "optun": "< 20 000)",
-        "optdeux": "< 100 000)",
-        "opttrois": "< 250 000)",
-        "optquatre": "< 500 000)",
-        "optcinq": "< 1 000 000)",
-        "optsix": "< 1 000 000)",
+        "optun": " < 20 000)",
+        "optdeux": " < 100 000)",
+        "opttrois": " < 250 000)",
+        "optquatre": " < 500 000)",
+        "optcinq": " < 1 000 000)",
+        "optsix": " < 1 000 000)",
         "CountryName": "Suriname",
         "reponsed": "(163,820",
-        "reponse": "< 250 000)"
+        "reponse": " < 250 000)"
     },
 
     {
-        "optun": "< 20 000)",
-        "optdeux": "< 100 000)",
-        "opttrois": "< 250 000)",
-        "optquatre": "< 500 000)",
-        "optcinq": "< 1 000 000)",
+        "optun": " < 20 000)",
+        "optdeux": " < 100 000)",
+        "opttrois": " < 250 000)",
+        "optquatre": " < 500 000)",
+        "optcinq": " < 1 000 000)",
         "optsix": "inférieur à 1 000 000)",
         "CountryName": "(Gabon)",
         "reponsed": "(267,670)",
-        "reponse": "< 500 000)"
+        "reponse": " < 500 000)"
     }
 ]
