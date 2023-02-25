@@ -7,8 +7,8 @@
         "optcinq": "inférieur à 1 000 000)",
         "optsix": "inférieur à 1 000 000)",
         "CountryName": "Gibraltar",
-        "answerd": "10",
-        "answer": "inférieur à 20 000)"
+        "reponsed": "10",
+        "reponse": "inférieur à 20 000)"
     },
     {
         "optun": "inférieur à 20 000)",
@@ -18,8 +18,8 @@
         "optcinq": "inférieur à 1 000 000)",
         "optsix": "inférieur à 1 000 000)",
         "CountryName": "Suriname",
-        "answerd": "(163,820",
-        "answer": "inférieur à 250 000)"
+        "reponsed": "(163,820",
+        "reponse": "inférieur à 250 000)"
     },
 
     {
@@ -30,7 +30,7 @@
         "optcinq": "inférieur à 1 000 000)",
         "optsix": "inférieur à 1 000 000)",
         "CountryName": "(Gabon)",
-        "answerd": "(267,670)",
-        "answer": "inférieur à 500 000)"
+        "reponsed": "(267,670)",
+        "reponse": "inférieur à 500 000)"
     }
 ]
